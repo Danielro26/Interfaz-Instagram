@@ -1,0 +1,30 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration
+/local.properties
+
+# IntelliJ/Android Studio files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Log/OS files
+*.log
+*.DS_Store
+*.swp
+*.swo
+
+# Generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Google Services
+/app/google-services.json
+
+# Keystore files
+*.jks
+*.keystore
